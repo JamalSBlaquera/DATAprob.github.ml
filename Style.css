@@ -405,7 +405,7 @@ th {
 	padding: 4px;
 	border-radius: 90% 90%;
 	background-color: #999;
-	width: 7vmax;
+	width: 5vmax;
 	transition: transform 1s;
 }
 .imgBox {
